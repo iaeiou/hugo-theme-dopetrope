@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Dopetrope"
-baseURL = "http://localhost:1313/"
+baseURL = "/"
 theme = "../.."
 
 [params.portfolio]
